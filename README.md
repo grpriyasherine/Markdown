@@ -102,6 +102,8 @@ Customers can pay through the payment link posted on:
 
 Below is an example of a Markdown image and code block you might use in your documentation:
 
+
+
 > **Note:** Markdown is the super set of HTML
 ```
 {
@@ -112,10 +114,14 @@ Below is an example of a Markdown image and code block you might use in your doc
         }
 }
 
-
+```
 
 ### Stripe Payment ProcessDiagram
 
 ![ Flow Diagram](Images/online_payment_flow.jpg)
+
+
+
+
 
 
