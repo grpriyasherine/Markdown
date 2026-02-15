@@ -102,6 +102,16 @@ Customers can pay through the payment link posted on:
 
 Below is an example of a Markdown image and code block you might use in your documentation:
 
+> **Note:** Markdown is the super set of HTML
+```
+{
+    "status":"OK",
+    "data":
+        {
+            "message": "Welcome, world!"
+        }
+}
+
 
 
 ### Stripe Payment ProcessDiagram
