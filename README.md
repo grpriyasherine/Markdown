@@ -1,4 +1,15 @@
-# Stripe Use Case: Startup Payments
+
+**Table Of Contents**
+- [Overview: Accept Simple Payments](#overview-accept-simple-payments)
+  - [Key Benefits](#key-benefits)
+- [Step-by-Step: Getting Started](#step-by-step-getting-started)
+  - [1. Create a Stripe Account](#1-create-a-stripe-account)
+  - [2. Create a Payment Link](#2-create-a-payment-link)
+  - [3. Share and Go Live](#3-share-and-go-live)
+- [Supported Sharing Channels](#supported-sharing-channels)
+- [Summary of Startup Use Case](#summary-of-startup-use-case)
+- [Sample Markdown Snippet](#sample-markdown-snippet)
+  - [Stripe Payment ProcessDiagram](#stripe-payment-processdiagram)
 
 
 Welcome to the **Stripe Startup Integration Guide**.  
@@ -106,16 +117,4 @@ Below is an example of a Markdown image and code block you might use in your doc
 
 ![ Flow Diagram](Images/online_payment_flow.jpg)
 
-- [ ] Review pull requests- [Stripe Use Case: Startup Payments](#stripe-use-case-startup-payments)
-  - [Overview: Accept Simple Payments](#overview-accept-simple-payments)
-    - [Key Benefits](#key-benefits)
-  - [Step-by-Step: Getting Started](#step-by-step-getting-started)
-    - [1. Create a Stripe Account](#1-create-a-stripe-account)
-    - [2. Create a Payment Link](#2-create-a-payment-link)
-    - [3. Share and Go Live](#3-share-and-go-live)
-  - [Supported Sharing Channels](#supported-sharing-channels)
-  - [Summary of Startup Use Case](#summary-of-startup-use-case)
-  - [Sample Markdown Snippet](#sample-markdown-snippet)
-    - [Stripe Payment ProcessDiagram](#stripe-payment-processdiagram)
-    - [Code Snippet](#code-snippet)
-  - [Task lists](#task-lists)
+
