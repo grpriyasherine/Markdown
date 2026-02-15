@@ -12,17 +12,8 @@
   - [Stripe Payment ProcessDiagram](#stripe-payment-processdiagram)
 
 
-Welcome to the **Stripe Startup Integration Guide**.  
-This document helps you understand how to accept simple payments for a startup using Stripe — from account setup to sharing payment links.
 
 
-Learn more about Stripe’s use cases here:  
-[Stripe Common Use Cases](https://docs.stripe.com/get-started/use-cases)
-
-
-
-
----
 
 
 ## Overview: Accept Simple Payments
